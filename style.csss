@@ -38,6 +38,7 @@
           box-sizing: border-box;
 }
 
+
 body {
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
